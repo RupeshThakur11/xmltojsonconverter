@@ -1,10 +1,5 @@
 # Description #
-XML to JSON converter. This is a quick and very dirty converter for turning 
-XML documents into JSON objects. It's by no means complete. This converter was 
-made to work with a handful of document on some of my various projects. I tried 
-to keep it as generic as possible with respect to schema, and it has been good 
-enough to get me through some basic XML files. I may add features as they come 
-up in the future. BTW, there may be better (or more efficient) ways to parse the 
+XML to JSON converter. BTW, there may be better (or more efficient) ways to parse the 
 XML files, but this was done quickly to fill a specific need. 
 
 

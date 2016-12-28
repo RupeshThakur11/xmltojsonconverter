@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/rkdaredevil/xmltojsonconverter/issues"
   },
-  "homepage": "https://github.com/rkdaredevil/xmltojsonconverter#readme"
+  "homepage": "https://github.com/rkdaredevil/xmltojsonconverter#readme",
+  "devDependencies": {}
 }

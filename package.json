@@ -1,12 +1,24 @@
 {
-	"name": "XML_to_JSON_Converter",
-	"version": "0.0.1",
-	"private": false,
-	"scripts": {
-		"start": "node demo"
-	},
-	"dependencies": {
-		"lodash"      : "*",
-		"node-xml"    : "*"
-	}
+  "name": "xml-to-json",
+  "version": "0.0.1",
+  "private": false,
+  "scripts": {
+    "start": "node demo"
+  },
+  "dependencies": {
+    "lodash": "^4.17.3",
+    "node-xml": "*"
+  },
+  "description": "XML to JSON converter. This is a quick and very dirty converter for turning \r XML documents into JSON objects. It's by no means complete. This converter was \r made to work with a handful of document on some of my various projects. I tried \r to keep it as generic as possible with respect to schema, and it has been good \r enough to get me through some basic XML files. I may add features as they come \r up in the future. BTW, there may be better (or more efficient) ways to parse the \r XML files, but this was done quickly to fill a specific need.",
+  "main": "demo.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkdaredevil/xmltojsonconverter.git"
+  },
+  "author": "rupesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rkdaredevil/xmltojsonconverter/issues"
+  },
+  "homepage": "https://github.com/rkdaredevil/xmltojsonconverter#readme"
 }
